@@ -12,3 +12,5 @@ npm run dev
 
 启动springboot
 springboot设置了允许跨域请求。
+
+前端后端，数据交互暂未写完，只是测试框架
