@@ -6,9 +6,11 @@
 进入gkvue目录运行:
 ```
 npm install
-npm run dev
 ```
 开启vue开发服务器
+```
+npm run dev
+```
 
 启动springboot
 springboot设置了允许跨域请求。
